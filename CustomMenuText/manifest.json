@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "id": "CustomMenuText",
+  "name": "CustomMenuText",
+  "author": "Leaf",
+  "version": "3.2.0",
+  "description": "",
+  "gameVersion": "1.6.2",
+  "dependsOn": {
+
+  },
+  "features": []
+}
